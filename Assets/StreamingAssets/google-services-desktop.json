@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78555802023",
+    "project_id": "sing-in-d75a8",
+    "storage_bucket": "sing-in-d75a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78555802023:android:209bdec61e8ebb2a6c6e82",
+        "android_client_info": {
+          "package_name": "com.DracoArts.GoogleSingInFirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Y1pmmZnPutxWDPUGOHV-lfWOozb22YI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
